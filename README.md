@@ -12,3 +12,7 @@ Enter expenses offline
 When brought back online:
 
 Offline entries should be added to tracker.
+
+
+Deploy 
+https://fhhjjkklk.herokuapp.com/
